@@ -20,7 +20,7 @@ In this notebook, we will test two approaches - <br>
    ![](resized_collab_filtering.png)
    
 3. **Content Filtering** - recommending items based on similarity of tracks to the user's listening history.
-<img src="content-filter.png" alt="Content Filter" width="20%" height="100">
+<img src="content-filter.png" alt="Content Filter" width="20%">
 
   
 ## Business Questions 
