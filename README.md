@@ -1,6 +1,6 @@
 # Music Recommendation System based on Content and Collaborative Filtering 
 
-_Keywords_ - Content filtering, Collaborative filtering, NLP, Singular Value Decomposition (SVD), Tfidf Vectorization, Cosine similarity, Cross-Validation, Precision-at-k, Recall-at-k, Dask, sklearn, Python, Pandas, Matplotlib <br>
+_Keywords_ - Content filtering, Collaborative filtering, NLP, Matrix Factorization, Singular Value Decomposition (SVD), Tfidf Vectorization, Cosine similarity, Cross-Validation, Precision-at-k, Recall-at-k, Dask, sklearn, Python, Pandas, Dask, Matplotlib <br>
 
 ## Context 
 
